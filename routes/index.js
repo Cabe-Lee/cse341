@@ -1,6 +1,5 @@
-// const { awesomeFunction } = require('../controllers');
-
-const routes = require('express').Router();
+const express = require('express');
+const routes = express.Router();
 
 const myController = require('../controllers');
 

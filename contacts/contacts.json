@@ -1,0 +1,23 @@
+{
+    "contact1": {
+        "firstName": "Bob",
+        "lastName": "Dragon",
+        "email": "Bobby@gmail.com",
+        "favoriteColor": "blue",
+        "birthday": "03/26/75"
+    },
+    "contact2": {
+        "firstName": "Steve",
+        "lastName": "Hamkins",
+        "email": "Hamfam@gmail.com",
+        "favoriteColor": "green",
+        "birthday": "06/12/94"
+    },
+    "contact3": {
+        "firstName": "Kayowna",
+        "lastName": "Smith",
+        "email": "Daugterofthegreat@gmail.com",
+        "favoriteColor": "pink",
+        "birthday": "05/30/25"
+    }
+}
